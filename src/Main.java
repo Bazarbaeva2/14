@@ -6,7 +6,7 @@ public class Main {
         Dancer dancer = new Dancer("Nurgul","Hip Hop dancer","Quween","ABC");
         System.out.println(dancer);
         Singer singer = new Singer("Rihana","Rocky","Only");
-        System.out.println(singer);
+         System.out.println(singer);
 
 
 
